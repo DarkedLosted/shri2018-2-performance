@@ -2,6 +2,7 @@
 	font-family: 'PT Sans';
 	src: url('pts55f_w.eot');
 	src: local('PT Sans'), url('PTS55F_W.woff') format('woff');
+    unicode-range: U+20,U+21,U+2C,U+413,U+41F,U+430,U+432,U+434,U+435,U+438,U+439,U+43D,U+440,U+442;
 }
 
 @font-face {
@@ -10,12 +11,14 @@
 	font-weight: bold;
 	src: url('pts75f_w.eot');
 	src: local('PT Sans Bold'), url('PTS75F_W.woff') format('woff');
+    unicode-range: U+20,U+21,U+2C,U+413,U+41F,U+430,U+432,U+434,U+435,U+438,U+439,U+43D,U+440,U+442;
 }
 
 @font-face {
 	font-family: 'PT Sans Narrow';
 	src: url('ptn57f_w.eot');
 	src: local('PT Sans Narrow'), url('PTN57F_W.woff') format('woff');
+    unicode-range: U+2B,U+31-33,U+39;
 }
 
 @font-face {
@@ -23,4 +26,5 @@
 	font-weight: bold;
 	src: url('ptn77f_w.eot');
 	src: local('PT Sans Narrow Bold'), url('PTN77F_W.woff') format('woff');
+    unicode-range: U+2B,U+31-33,U+39;
 }
